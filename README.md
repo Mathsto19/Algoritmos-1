@@ -78,8 +78,6 @@ Este repositório contém códigos implementados durante a disciplina Algoritmos
     - Experimente executar o código e observe os resultados.
     - Se identificar melhorias, encontrar bugs ou quiser adicionar algo novo, sinta-se à vontade para criar um pull request!
 
-Lembre-se, este repositório é uma oportunidade para aprender, experimentar e colaborar. Divirta-se programando!
-
 ## Contribuições
 
 Contribuições são bem-vindas! Se você identificar melhorias nos códigos existentes, encontrar bugs ou quiser adicionar novos exercícios, sinta-se à vontade para criar um pull request.
