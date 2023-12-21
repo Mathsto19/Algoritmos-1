@@ -56,19 +56,29 @@ Este repositório contém códigos implementados durante a disciplina Algoritmos
 
 ## Como Usar
 
-1. Clone este repositório para sua máquina local:
+1. **Clone o Repositório:**
+    - Clone este repositório para sua máquina local usando o seguinte comando no terminal:
 
-    ```bash
-    git clone https://github.com/Mathsto19/Algoritmos-e-Estrutura-de-Dados-I.git
-    ```
+        ```bash
+        git clone https://github.com/Mathsto19/Algoritmos-e-Estrutura-de-Dados-I.git
+        ```
 
-2. Navegue até o diretório do exercício desejado, por exemplo:
+2. **Escolha um Exercício:**
+    - Navegue até o diretório do exercício desejado. Por exemplo, para acessar o código do exercício "Algoritmos de Busca - Combinação entre Pesquisa Binária e Sequencial", você pode usar o seguinte comando:
 
-    ```bash
-    cd Algoritmos-de-busca-Combinação-entre-Pesquisa-Binária-e-Sequencial
-    ```
+        ```bash
+        cd Algoritmos-de-busca-Combinação-entre-Pesquisa-Binária-e-Sequencial
+        ```
 
-3. Leia o código-fonte para entender o enunciado e a solução.
+3. **Leia o Código:**
+    - Abra o arquivo `.c` correspondente ao exercício no seu editor de código favorito.
+    - Explore o código para entender o enunciado do problema e a solução implementada.
+
+4. **Experimente e Contribua:**
+    - Experimente executar o código e observe os resultados.
+    - Se identificar melhorias, encontrar bugs ou quiser adicionar algo novo, sinta-se à vontade para criar um pull request!
+
+Lembre-se, este repositório é uma oportunidade para aprender, experimentar e colaborar. Divirta-se programando!
 
 ## Contribuições
 
