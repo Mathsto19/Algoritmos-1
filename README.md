@@ -67,7 +67,7 @@ Este repositório contém códigos implementados durante a disciplina Algoritmos
     - Navegue até o diretório do exercício desejado. Por exemplo, para acessar o código do exercício "Algoritmos de Busca - Combinação entre Pesquisa Binária e Sequencial", você pode usar o seguinte comando:
 
         ```bash
-        cd Struct - Eletrodomésticos
+        cd Algoritmos-de-busca-Combinação-entre-Pesquisa-Binária-e-Sequencial
         ```
 
 3. **Leia o Código:**
